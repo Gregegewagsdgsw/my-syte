@@ -1,0 +1,766 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  text-decoration: none;
+  appearance: none;
+  background: none;
+  -webkit-font-smoothing: antialiased;
+}
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #ffffff;
+  padding: 10px;
+  width: 1440px;
+  height: 3391px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-14 {
+  background:#9aa2bc;
+  width: 1437px;
+  height: 561px;
+  position: absolute;
+  left: 3px;
+  top: 2511px;
+}
+._1 {
+  position: absolute;
+  inset: 0;
+}
+.html-blog-scaled-1 {
+  width: 1440px;
+  height: 732px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.div2 {
+  width: 705.6px;
+  height: 385px;
+  position: static;
+}
+.div3 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 705.6px;
+  position: absolute;
+  left: 28.8px;
+  top: 218px;
+}
+.html {
+  color: #2c2c2c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 55px;
+  line-height: 120%;
+  font-weight: 400;
+  position: relative;
+  width: 604px;
+}
+.div4 {
+  color: #696969;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  width: 350px;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 28.8px;
+  top: 537px;
+}
+.button2 {
+  background: var(--мой-цвет, #4ba1c6);
+  border-radius: 50px;
+  padding: 22px 10px 22px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 303.74px;
+  position: relative;
+}
+.div5 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
+}
+.rectangle-12 {
+  border-radius: 50px;
+  width: 642px;
+  height: 544px;
+  position: absolute;
+  left: 771.6px;
+  top: 120px;
+}
+._2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-4 {
+  background: var(--для-фона, #9aa2bc);
+  border-style: solid;
+  border-color: var(--для-фона, #9aa2bc);
+  border-width: 1px;
+  width: 1440px;
+  height: 835px;
+  position: absolute;
+  left: 0px;
+  top: 732px;
+}
+.div6 {
+  color: var(--цвет-для-теста, #100101);
+  text-align: left;
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 557px;
+  top: 756.72px;
+  width: 301px;
+  height: 51.58px;
+}
+.group-9 {
+  width: 1278px;
+  height: 517px;
+  position: static;
+}
+.group-6 {
+  width: 335px;
+  height: 508px;
+  position: static;
+}
+.rectangle-15 {
+  border-radius: 0px;
+  width: 335px;
+  height: 502.68px;
+  position: absolute;
+  left: 81px;
+  top: 888.32px;
+  overflow: visible;
+}
+.group-5 {
+  width: 335px;
+  height: 62.83px;
+  position: static;
+}
+.intersect {
+  width: 335px;
+  height: 62.83px;
+  position: absolute;
+  left: 81px;
+  top: 883px;
+  overflow: visible;
+}
+.div7 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Rubik-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 120%;
+  font-weight: 700;
+  position: absolute;
+  left: 156px;
+  top: 903px;
+  width: 223.33px;
+  height: 22.36px;
+}
+.group-7 {
+  width: 335px;
+  height: 508px;
+  position: static;
+}
+.rectangle-152 {
+  border-radius: 0px;
+  width: 335px;
+  height: 502.68px;
+  position: absolute;
+  left: 565px;
+  top: 882.32px;
+  overflow: visible;
+}
+.intersect2 {
+  width: 335px;
+  height: 62.83px;
+  position: absolute;
+  left: 565px;
+  top: 877px;
+  overflow: visible;
+}
+.div8 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Rubik-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 120%;
+  font-weight: 700;
+  position: absolute;
+  left: 640px;
+  top: 897px;
+  width: 223.33px;
+  height: 22.36px;
+}
+.group-8 {
+  width: 335px;
+  height: 508px;
+  position: static;
+}
+.rectangle-153 {
+  border-radius: 0px;
+  width: 335px;
+  height: 502.68px;
+  position: absolute;
+  left: 1024px;
+  top: 879.32px;
+  overflow: visible;
+}
+.intersect3 {
+  width: 335px;
+  height: 62.83px;
+  position: absolute;
+  left: 1024px;
+  top: 874px;
+  overflow: visible;
+}
+.div9 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Rubik-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 120%;
+  font-weight: 700;
+  position: absolute;
+  left: 1099px;
+  top: 894px;
+  width: 223.33px;
+  height: 22.36px;
+}
+.sumsung {
+  color: #000000;
+  text-align: left;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 572px;
+  top: 1396px;
+  width: 212px;
+  height: 71px;
+}
+.div10 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 1030px;
+  top: 1389px;
+  width: 212px;
+  height: 71px;
+}
+._3 {
+  position: absolute;
+  inset: 0;
+}
+.div11 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 380.46px;
+  height: 526.76px;
+  position: absolute;
+  left: 1057.54px;
+  top: 2545.24px;
+}
+.frame-5 {
+  background: #757575;
+  border-radius: 50px;
+  padding: 22px 25px 22px 25px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 320px;
+  position: relative;
+}
+.div12 {
+  flex-shrink: 0;
+  width: 244px;
+  height: 25px;
+  position: relative;
+}
+.vector-2 {
+  width: 14px;
+  height: 7px;
+  position: absolute;
+  left: 256px;
+  top: 9px;
+  overflow: visible;
+}
+.div13 {
+  color: #b6b6b6;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  right: 9.63%;
+  left: 0%;
+  width: 90.37%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.frame-6 {
+  background: #757575;
+  border-radius: 50px;
+  padding: 22px 25px 22px 25px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 320px;
+  position: relative;
+}
+.frame-7 {
+  background: #757575;
+  border-radius: 50px;
+  padding: 22px 25px 22px 25px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 320px;
+  position: relative;
+}
+.div14 {
+  color: var(--для-кнопки, #b6b6b6);
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  right: 9.63%;
+  left: 0%;
+  width: 90.37%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.div-14-span {
+  color: var(--для-кнопки, #b6b6b6);
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 400;
+}
+.div-14-span2 {
+  color: var(--для-кнопки, #b6b6b6);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 400;
+}
+.button3 {
+  background: var(--мой-цвет, #4ba1c6);
+  border-radius: 50px;
+  padding: 22px 10px 22px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 320px;
+  height: 66px;
+  position: relative;
+}
+.div15 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 700;
+  position: relative;
+}
+.frame-72 {
+  background: #757575;
+  border-radius: 50px;
+  padding: 22px 25px 22px 25px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 521px;
+  height: 312px;
+  position: absolute;
+  left: 492px;
+  top: 2542px;
+}
+.div16 {
+  flex-shrink: 0;
+  width: 192px;
+  height: 25px;
+  position: relative;
+}
+.div17 {
+  color: var(--для-кнопки, #b6b6b6);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.group-3 {
+  width: 472.33px;
+  height: 130px;
+  position: static;
+}
+.image-1 {
+  width: 175px;
+  height: 130px;
+  position: absolute;
+  left: 4px;
+  top: 2511px;
+}
+.https-vk-com-itelmangrigory {
+  color: #000000;
+  text-align: left;
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  left: 218.54px;
+  top: 2555.47px;
+  width: 257.79px;
+  height: 68.83px;
+}
+._10-00-22-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  left: 18.14px;
+  top: 2988.05px;
+  width: 415.71px;
+  height: 40.66px;
+}
+.group-4 {
+  width: 472.32px;
+  height: 130px;
+  position: static;
+}
+.image-12 {
+  width: 177.73px;
+  height: 130px;
+  position: absolute;
+  left: 4px;
+  top: 2837px;
+}
+.itelmangrigory-yandex-ru {
+  color: #000000;
+  text-align: left;
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  left: 218.53px;
+  top: 2879.47px;
+  width: 257.79px;
+  height: 68.83px;
+}
+.div18 {
+  position: absolute;
+  inset: 0;
+}
+.group-2 {
+  width: 1439px;
+  height: 62px;
+  position: static;
+}
+.rectangle-13 {
+  background: var(--мой-цвет, #4ba1c6);
+  width: 1439px;
+  height: 62px;
+  position: absolute;
+  left: 1px;
+  top: 0px;
+}
+.div19 {
+  color: var(--цвет-для-теста, #100101);
+  text-align: left;
+  font-family: "MuseoModerno-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 879.99px;
+  top: 26px;
+  width: 94.73px;
+  height: 21px;
+}
+.div20 {
+  color: var(--цвет-для-теста, #100101);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 987.91px;
+  top: 26px;
+  width: 77.95px;
+  height: 21px;
+}
+.div21 {
+  color: var(--цвет-для-теста, #100101);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 1079.05px;
+  top: 26px;
+  width: 100.73px;
+  height: 21px;
+}
+.div22 {
+  color: var(--цвет-для-теста, #100101);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 1209.4px;
+  top: 26px;
+  width: 83.29px;
+  height: 20.67px;
+}
+.gregsom {
+  color: #000000;
+  text-align: left;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 28.98px;
+  top: 16px;
+  width: 156.89px;
+  height: 30px;
+}
+.html-blog-scaled-12 {
+  background: var(--для-фона, #9aa2bc);
+  width: 1437px;
+  height: 820px;
+  position: absolute;
+  left: 1px;
+  top: 1567px;
+}
+._4 {
+  position: absolute;
+  inset: 0;
+}
+.div23 {
+  width: 514px;
+  height: 494px;
+  position: static;
+}
+.div24 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 514px;
+  position: absolute;
+  left: 137px;
+  top: 1657px;
+}
+.div25 {
+  color: #2c2c2c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 64px;
+  line-height: 120%;
+  font-weight: 400;
+  position: relative;
+  width: 604px;
+}
+.div26 {
+  color: var(--цвет-для-теста, #100101);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 140%;
+  font-weight: 400;
+  position: relative;
+  width: 350px;
+}
+.rectangle-122 {
+  border-radius: 50px;
+  width: 569px;
+  height: 640px;
+  position: absolute;
+  left: 706px;
+  top: 1657px;
+}
+.rectangle-5 {
+  background: var(--мой-цвет, #4ba1c6);
+  width: 1439px;
+  height: 84px;
+  position: absolute;
+  left: 0px;
+  top: 3307px;
+}
+.copyright-2023-2025 {
+  color: var(--цвет-для-теста, #100101);
+  text-align: left;
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -121px);
+  top: 3337px;
+  width: 349px;
+  height: 49px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.copyright-2023-2025-span {
+  color: var(--цвет-для-теста, #100101);
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: 400;
+}
+.copyright-2023-2025-span2 {
+  color: var(--цвет-для-теста, #100101);
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.copyright-2023-2025-span3 {
+  color: var(--цвет-для-теста, #100101);
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: 400;
+}
+.gregsom2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 34px;
+  top: 3334px;
+  width: 130.83px;
+  height: 30px;
+}
+.div27 {
+  color: var(--цвет-для-теста, #100101);
+  text-align: left;
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 536px;
+  top: 2416px;
+  width: 367px;
+  height: 52px;
+}
+.group-32 {
+  position: absolute;
+  inset: 0;
+}
+.image-13 {
+  width: 177.73px;
+  height: 130px;
+  position: absolute;
+  left: 4px;
+  top: 2676px;
+}
+.https-t-me-itelmangrigory {
+  color: #000000;
+  text-align: left;
+  font-family: "Rubik-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 400;
+  position: absolute;
+  left: 218.53px;
+  top: 2718.47px;
+  width: 257.79px;
+  height: 68.83px;
+}
+.div28 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 120%;
+  font-weight: 400;
+  position: absolute;
+  left: 90px;
+  top: 1405px;
+  width: 212px;
+  height: 40px;
+}
